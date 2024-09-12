@@ -1,0 +1,743 @@
+[
+    {
+      "id": 1,
+      "name": "Hawaiian Chicken",
+      "image": "img/hawaiian_chicken.jpg",
+      "recipe": {
+        "ingredients": [
+            "Chicken",
+            "Oil",
+            "Bell peppers",
+            "Onions",
+            "Garlic",
+            "Ginger",
+            "Pineapple chunks",
+            "Pineapple juice",
+            "Light soy sauce",
+            "Water",
+            "Sugar",
+            "Cornstarch"
+            ],
+        "instructions": [
+            "Trim chicken thighs of excess fat and season with salt and pepper to taste. Set aside.",
+            "Heat oil in a wide pan. Add bell peppers and briefly saute until tender-crisp. Remove from pan and drain on paper towels.",
+            "Add chicken in a single layer and brown on all sides. Remove from pan and drain on paper towels.",
+            "Saute onions, ginger, and garlic until softened and aromatic. Combine pineapple juice, soy sauce, broth or water, and brown sugar and add to the pan, bringing to a boil.",
+            "Add the browned chicken, cover, and simmer until tender and cooked.",
+            "Add pineapples and bell peppers and cook until heated through.",
+            "Add cornstarch slurry, whisking to prevent lumps, and cook until sauce is slightly thickened. Adjust seasonings with salt and pepper to taste."
+            ]
+        }
+    },
+    {
+      "id": 2,
+      "name": "Pork Adobo with Pineapple",
+      "image": "img/pork_adobo.jpg",
+      "recipe": {
+        "ingredients": [
+            "Pork",
+            "Pineapple chunks and juice",
+            "Vinegar",
+            "Onions and garlic",
+            "Seasonings"
+            ],
+        "instructions": [
+            "Sear the pork on medium-high heat until lightly browned. This extra step of caramelizing the meat brings tons of flavor. Add onions and garlic and cook until softened.",
+            "Add pineapple juice and vinegar. Allow the vinegar to boil uncovered without stirring for a few minutes before adding the soy sauce and water to cook off the strong acid taste.",
+            "Lower the heat, cover, and simmer until the pork is fork-tender. Add the pineapple chunks.",
+            "Continue to cook until the sauce is reduced, and season with salt and pepper to taste."
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bistek",
+        "image": "img/bistek.jpg",
+        "recipe": {
+          "ingredients": [
+            "Beef Sirloin",
+            "Garlic and Onions",
+            "Lemons",
+            "Soy sauce",
+            "Salt and pepper",
+            "Oil",
+            "Water"
+            ],
+        "instructions": [
+            "Marinate - Combine beef, lemon juice, soy sauce, sliced onions, garlic, and pepper in a large bowl and marinate for about 30 minutes. Do not marinate for too long, as the acids in the marinade might break down the protein fibers and make the meat mushy.",
+            "Sear - Remove the meat, onions, and garlic from the marinade, squeezing and reserving the excess liquid. Heat oil in a pan over high heat and add the beef in a single layer, making sure not to overcrowd the pan. Cook until lightly browned. Remove from pan and keep warm. Spoon out and reserve the released meat juices during frying.",
+            "Saute - Add onions and garlic to the pan and cook until softened. Return browned beef to pan. Add reserved marinade, meat juices, and water, and bring to a boil.",
+            "Simmer - Cover, lower the heat, and cook until the meat is fork-tender and the liquid is reduced. Season with salt and pepper as needed. Turn off the heat. Garnish with onion rings, and cover to allow the onions to cook slightly in the steam."
+            ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "Chop Suey",
+        "image": "img/chop_suey.jpg",
+        "recipe": {
+          "ingredients": [
+            "Vegetables",
+            "Chicken, Pork, or Beef",
+            "Oyster Sauce",
+            "Cornstarch"
+        ],
+        "instructions": [
+            "Blanch vegetables in salted boiling water until tender-crisp and submerge in a bowl of iced water until completely cool. Drain well lest the excess liquid will thin out the sauce. Reserve 2 cups of the poaching liquid (the one used to blanch vegetables).",
+            "Fry liver a wide pan over medium heat until lightly browned but not fully cooked. Remove and keep warm. Saute onions and garlic in the pan until softened. Add chicken and cook, stirring regularly, until color changes.",
+            "In a bowl, combine the reserved poaching liquid and oyster sauce. Add to the pan and bring to a boil.",
+            "Cook, skimming scum that may float on top, for about 4 to 5 minutes or until chicken is cooked through. Add the liver and cook for 1 to 2 minutes. Add parboiled vegetables, baby corn, and quail eggs and cook until heated through.",
+            "In a bowl, combine ¼ cup of cold water and corn starch and stir until corn starch is dissolved. Add mixture to the pan, stirring gently. Cook for about 1 to 2 minutes or until sauce is thickened.",
+            "Season with salt and pepper to taste. Stir to combine."
+            ]
+        }
+      },
+      {
+        "id": 5,
+        "name": "Beef in Creamy Mushroom Sauce",
+        "image": "img/beef_mushroom.jpg",
+        "recipe": {
+          "ingredients": [
+            "Oil",
+            "Beef",
+            "Mushrooms",
+            "Butter",
+            "Flour",
+            "Onions and garlic",
+            "Beef broth",
+            "All-purpose cream"
+        ],
+        "instructions": [
+            "Prepare the beef- slice beef across the grain at about ¼-inch thickness and season it with salt and pepper to taste. To make slicing easier, you can freeze the meat for about 20 minutes or until partially firm or purchase pre-sliced beef from the butcher.",
+            "Saute the mushrooms in a wide pan until lightly browned. Remove from pan and keep warm.",
+            "Sear the beef- Add another tablespoon of oil to the pan if needed. Add the beef in a single layer and sear until lightly browned. Do not overcrowd the pan; cook the beef in batches as needed. Remove the meat from the pan and keep warm.",
+            "Saute aromatics and make the roux- Melt butter in the pan. Add onions and garlic and cook until softened. Add flour and continue to cook for about 1 to 2 minutes.",
+            "Make the gravy- Gradually add broth, whisking regularly to prevent lumps.",
+            "Simmer- Add beef and bring to a boil, skimming scum that floats on top. Lower heat, cover, and simmer until meat is fork-tender. Add more broth or water in ½ cup increments if the liquid gets too thick before the meat is thoroughly tender.",
+            "Add all-purpose cream and stir to distribute. Once the cream is added, lower the heat and continue to cook at a simmer, as the cream might curdle and separate on high heat.",
+            "Add mushrooms and cook until heated through.",
+            "Season- Continue to simmer to the desired thickness. Adjust seasonings as needed."
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "Skillet Teriyaki Chicken",
+        "image": "img/teriyaki_chicken.jpeg",
+        "recipe": {
+            "ingredients": [
+            "Teriyaki Sauce",
+            "Chicken Breasts",
+            "Olive Oil",
+            "Garlic",
+            "Pineapple chunks",
+            "Green onions"
+        ],
+            "instructions": [
+                "Place chicken between pieces of plastic wrap, and use a meat mallet to pound chicken until even thickness.",
+                "Season with salt and pepper on both sides.",
+                "Put olive oil in a large skillet, and turn on to medium heat.",
+                "Cook chicken for 5-7 minutes on each side over medium heat until browned and cooked through. Transfer to a plate and cover to keep warm.",
+                "To the same skillet, add pineapple rings, and sauté over medium heat for 1-2 minutes until garlic is fragrant.",
+                "Add chicken back into the pan, and top with teriyaki sauce (combine all sauce ingredients and pour into pan). Cook until the sauce is reduced to desired thickness.",
+                "Serve with fresh cracked pepper and garnish with green onions if desired."
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Grilled Lemon Herb Chicken",
+        "image": "img/lemon_herb_chicken.jpg",
+        "recipe": {
+            "ingredients": [
+                "Chicken Breast",
+                "Lemon Juice",
+                "Garlic",
+                "Olive Oil",
+                "Dried Oregano",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "In a bowl, combine lemon juice, garlic, olive oil, oregano, salt, and pepper.",
+                "Marinate chicken breasts in the mixture for at least 30 minutes.",
+                "Grill the chicken until cooked through and juices run clear.",
+                "Serve with a side of vegetables or rice."
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Garlic Butter Shrimp",
+        "image": "img/garlic_butter_shrimp.jpg",
+        "recipe": {
+            "ingredients": [
+                "Shrimp",
+                "Butter",
+                "Garlic",
+                "Lemon Juice",
+                "Parsley",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Melt butter in a pan over medium heat.",
+                "Add minced garlic and cook until fragrant.",
+                "Add shrimp, season with salt and pepper, and cook until pink.",
+                "Squeeze fresh lemon juice and sprinkle parsley before serving."
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "name": "Classic Spaghetti Bolognese",
+        "image": "img/spaghetti_bolognese.jpg",
+        "recipe": {
+            "ingredients": [
+                "Ground Beef",
+                "Onions",
+                "Garlic",
+                "Tomato Sauce",
+                "Diced Tomatoes",
+                "Italian Seasoning",
+                "Spaghetti"
+            ],
+            "instructions": [
+                "Saute onions and garlic until soft.",
+                "Add ground beef and cook until browned.",
+                "Stir in tomato sauce, diced tomatoes, and Italian seasoning.",
+                "Simmer for 20 minutes and serve over cooked spaghetti."
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "name": "Creamy Chicken Alfredo",
+        "image": "img/chicken_alfredo.jpg",
+        "recipe": {
+            "ingredients": [
+                "Chicken Breast",
+                "Heavy Cream",
+                "Garlic",
+                "Parmesan Cheese",
+                "Butter",
+                "Fettuccine Pasta",
+                "Parsley"
+            ],
+            "instructions": [
+                "Cook fettuccine pasta according to package instructions.",
+                "In a pan, cook chicken breasts until browned and cooked through.",
+                "In the same pan, melt butter, add garlic, and cook until fragrant.",
+                "Add heavy cream and Parmesan cheese, stirring until smooth.",
+                "Toss in cooked pasta and chicken, and garnish with parsley before serving."
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "name": "Roasted Garlic Mashed Potatoes",
+        "image": "img/mashed_potatoes.jpg",
+        "recipe": {
+            "ingredients": [
+                "Potatoes",
+                "Garlic",
+                "Butter",
+                "Milk",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Boil potatoes until tender, then drain.",
+                "Roast garlic until soft and mash.",
+                "Combine potatoes, roasted garlic, butter, and milk. Mash until smooth.",
+                "Season with salt and pepper to taste."
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "Honey Garlic Glazed Salmon",
+        "image": "img/honey_garlic_salmon.jpg",
+        "recipe": {
+            "ingredients": [
+                "Salmon Fillets",
+                "Honey",
+                "Soy Sauce",
+                "Garlic",
+                "Lemon Juice",
+                "Olive Oil"
+            ],
+            "instructions": [
+                "In a small bowl, whisk together honey, soy sauce, minced garlic, and lemon juice.",
+                "Heat olive oil in a pan over medium heat.",
+                "Sear the salmon fillets on both sides until golden brown and cooked through.",
+                "Pour the honey garlic sauce over the salmon and cook until the sauce thickens.",
+                "Serve with rice or vegetables."
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "name": "Beef Stroganoff",
+        "image": "img/beef_stroganoff.jpg",
+        "recipe": {
+            "ingredients": [
+                "Beef Sirloin",
+                "Mushrooms",
+                "Onions",
+                "Sour Cream",
+                "Beef Broth",
+                "Butter",
+                "Flour",
+                "Egg Noodles"
+            ],
+            "instructions": [
+                "Cook egg noodles according to package instructions.",
+                "In a pan, cook onions and mushrooms in butter until softened.",
+                "Add beef and sear until browned, then remove from the pan.",
+                "Stir in flour and beef broth to make a roux, then add sour cream.",
+                "Return beef to the pan and simmer until the sauce thickens.",
+                "Serve over egg noodles."
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "name": "Stuffed Bell Peppers",
+        "image": "img/stuffed_bell_peppers.jpg",
+        "recipe": {
+            "ingredients": [
+                "Bell Peppers",
+                "Ground Beef",
+                "Rice",
+                "Tomato Sauce",
+                "Onions",
+                "Garlic",
+                "Cheese"
+            ],
+            "instructions": [
+                "Preheat oven to 375°F (190°C).",
+                "Cut the tops off the bell peppers and remove seeds.",
+                "Saute onions and garlic, then add ground beef and cook until browned.",
+                "Mix in cooked rice and tomato sauce, then stuff the bell peppers with the mixture.",
+                "Top with cheese and bake for 20-25 minutes until the peppers are tender."
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "Chicken Caesar Salad",
+        "image": "img/chicken_caesar_salad.jpg",
+        "recipe": {
+            "ingredients": [
+                "Romaine Lettuce",
+                "Chicken Breast",
+                "Croutons",
+                "Parmesan Cheese",
+                "Caesar Dressing",
+                "Olive Oil"
+            ],
+            "instructions": [
+                "Season chicken breast with salt and pepper, then grill until cooked through.",
+                "Chop the romaine lettuce and place it in a large salad bowl.",
+                "Slice the grilled chicken and add it to the lettuce.",
+                "Top with croutons, Parmesan cheese, and Caesar dressing.",
+                "Toss the salad and serve."
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "name": "BBQ Pulled Pork Sandwich",
+        "image": "img/pulled_pork_sandwich.jpg",
+        "recipe": {
+            "ingredients": [
+                "Pork Shoulder",
+                "BBQ Sauce",
+                "Onions",
+                "Garlic",
+                "Buns",
+                "Coleslaw"
+            ],
+            "instructions": [
+                "Slow-cook the pork shoulder with onions and garlic until tender, about 6-8 hours.",
+                "Shred the pork and mix with BBQ sauce.",
+                "Toast buns and assemble the sandwiches with pulled pork and coleslaw.",
+                "Serve warm with extra BBQ sauce on the side."
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "name": "Chicken Fajitas",
+        "image": "img/chicken_fajitas.jpg",
+        "recipe": {
+            "ingredients": [
+                "Chicken Breast",
+                "Bell Peppers",
+                "Onions",
+                "Olive Oil",
+                "Fajita Seasoning",
+                "Tortillas"
+            ],
+            "instructions": [
+                "Slice chicken breast, bell peppers, and onions into strips.",
+                "Heat olive oil in a pan and add the chicken, cooking until browned.",
+                "Add bell peppers, onions, and fajita seasoning, and cook until vegetables are tender.",
+                "Serve the chicken and vegetables in warm tortillas."
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Butternut Squash Soup",
+        "image": "img/butternut_soup.jpg",
+        "recipe": {
+            "ingredients": [
+                "Butternut Squash",
+                "Onions",
+                "Garlic",
+                "Vegetable Broth",
+                "Coconut Milk",
+                "Olive Oil",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Peel and cube the butternut squash.",
+                "Saute onions and garlic in olive oil until softened.",
+                "Add butternut squash and vegetable broth, and simmer until the squash is tender.",
+                "Blend the mixture until smooth, then stir in coconut milk and season with salt and pepper.",
+                "Serve hot, garnished with fresh herbs."
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "name": "Caprese Salad",
+        "image": "img/caprese_salad.jpg",
+        "recipe": {
+            "ingredients": [
+                "Fresh Tomatoes",
+                "Mozzarella Cheese",
+                "Basil Leaves",
+                "Olive Oil",
+                "Balsamic Vinegar",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Slice fresh tomatoes and mozzarella cheese.",
+                "Arrange tomato slices and mozzarella on a plate, alternating them with fresh basil leaves.",
+                "Drizzle with olive oil and balsamic vinegar.",
+                "Season with salt and pepper before serving."
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "name": "Shrimp Scampi",
+        "image": "img/shrimp_scampi.jpg",
+        "recipe": {
+            "ingredients": [
+                "Shrimp",
+                "Garlic",
+                "Butter",
+                "Lemon Juice",
+                "White Wine",
+                "Parsley",
+                "Spaghetti"
+            ],
+            "instructions": [
+                "Cook spaghetti according to package instructions.",
+                "In a pan, melt butter and saute garlic until fragrant.",
+                "Add shrimp and cook until pink, then add lemon juice and white wine.",
+                "Simmer for a few minutes and toss with cooked spaghetti.",
+                "Garnish with fresh parsley before serving."
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "name": "Vegetable Stir-Fry",
+        "image": "img/vegetable_stir_fry.jpg",
+        "recipe": {
+            "ingredients": [
+                "Broccoli",
+                "Carrots",
+                "Bell Peppers",
+                "Snow Peas",
+                "Soy Sauce",
+                "Garlic",
+                "Ginger",
+                "Sesame Oil"
+            ],
+            "instructions": [
+                "Heat sesame oil in a pan and saute garlic and ginger.",
+                "Add broccoli, carrots, bell peppers, and snow peas, and stir-fry until tender-crisp.",
+                "Pour in soy sauce and toss to combine.",
+                "Serve hot with steamed rice or noodles."
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "name": "Banana Pancakes",
+        "image": "img/banana_pancakes.jpg",
+        "recipe": {
+            "ingredients": [
+                "Bananas",
+                "Flour",
+                "Eggs",
+                "Milk",
+                "Baking Powder",
+                "Sugar",
+                "Butter"
+            ],
+            "instructions": [
+                "In a bowl, mash bananas and mix with eggs, flour, milk, baking powder, and sugar.",
+                "Heat butter in a pan and pour in the pancake batter.",
+                "Cook until bubbles form on the surface, then flip and cook until golden brown.",
+                "Serve warm with syrup or fresh fruit."
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "name": "Pancetta Pasta",
+        "image": "img/pancetta_pasta.jpg",
+        "recipe": {
+            "ingredients": [
+                "Pancetta",
+                "Pasta",
+                "Garlic",
+                "Cherry Tomatoes",
+                "Parmesan Cheese",
+                "Olive Oil",
+                "Fresh Basil"
+            ],
+            "instructions": [
+                "Cook pasta according to package instructions.",
+                "In a pan, cook pancetta until crispy. Remove and set aside.",
+                "In the same pan, add garlic and cherry tomatoes, cooking until tomatoes are softened.",
+                "Toss in the cooked pasta and pancetta.",
+                "Add Parmesan cheese and fresh basil before serving."
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Greek Yogurt Chicken",
+        "image": "img/greek_yogurt_chicken.jpg",
+        "recipe": {
+            "ingredients": [
+                "Chicken Breast",
+                "Greek Yogurt",
+                "Lemon Juice",
+                "Garlic",
+                "Dried Oregano",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Mix Greek yogurt, lemon juice, minced garlic, dried oregano, salt, and pepper in a bowl.",
+                "Marinate chicken breasts in the mixture for at least 1 hour.",
+                "Grill or bake the chicken until fully cooked and juices run clear.",
+                "Serve with a side of vegetables or rice."
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Mango Salsa",
+        "image": "img/mango_salsa.jpg",
+        "recipe": {
+            "ingredients": [
+                "Mango",
+                "Red Onion",
+                "Bell Pepper",
+                "Cilantro",
+                "Lime Juice",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Dice mango, red onion, and bell pepper.",
+                "Combine with chopped cilantro in a bowl.",
+                "Add lime juice, salt, and pepper to taste.",
+                "Mix well and serve with chips or as a topping for grilled meats."
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "name": "Spaghetti Carbonara",
+        "image": "img/spaghetti_carbonara.jpg",
+        "recipe": {
+            "ingredients": [
+                "Spaghetti",
+                "Eggs",
+                "Pancetta",
+                "Parmesan Cheese",
+                "Garlic",
+                "Olive Oil",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Cook spaghetti according to package instructions.",
+                "In a pan, cook pancetta until crispy. Remove and set aside.",
+                "In the same pan, sauté garlic in olive oil.",
+                "Mix eggs and Parmesan cheese in a bowl.",
+                "Toss the hot spaghetti with the pancetta, then remove from heat and mix in the egg and cheese mixture.",
+                "Season with salt and pepper before serving."
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Coconut Curry Chicken",
+        "image": "img/coconut_curry_chicken.jpg",
+        "recipe": {
+            "ingredients": [
+                "Chicken Breast",
+                "Coconut Milk",
+                "Curry Powder",
+                "Onions",
+                "Garlic",
+                "Ginger",
+                "Olive Oil",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Sauté onions, garlic, and ginger in olive oil until softened.",
+                "Add curry powder and cook for another minute.",
+                "Add chicken and cook until browned.",
+                "Pour in coconut milk and simmer until chicken is cooked through.",
+                "Season with salt and pepper, and serve with rice."
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "name": "Classic Caesar Dressing",
+        "image": "img/caesar_dressing.jpg",
+        "recipe": {
+            "ingredients": [
+                "Egg Yolks",
+                "Garlic",
+                "Anchovy Paste",
+                "Lemon Juice",
+                "Parmesan Cheese",
+                "Olive Oil",
+                "Worcestershire Sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": [
+                "Whisk egg yolks, minced garlic, anchovy paste, and lemon juice in a bowl.",
+                "Slowly drizzle in olive oil while whisking to create an emulsion.",
+                "Stir in grated Parmesan cheese and Worcestershire sauce.",
+                "Season with salt and pepper to taste. Use as a dressing for Caesar salad."
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "name": "Roasted Brussels Sprouts",
+        "image": "img/roasted_brussels_sprouts.jpg",
+        "recipe": {
+            "ingredients": [
+                "Brussels Sprouts",
+                "Olive Oil",
+                "Salt",
+                "Pepper",
+                "Garlic Powder",
+                "Parmesan Cheese"
+            ],
+            "instructions": [
+                "Preheat oven to 400°F (200°C).",
+                "Trim and halve Brussels sprouts.",
+                "Toss with olive oil, salt, pepper, and garlic powder.",
+                "Spread on a baking sheet and roast for 20-25 minutes, until crispy and browned.",
+                "Sprinkle with Parmesan cheese before serving."
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "name": "Lemon Bars",
+        "image": "img/lemon_bars.jpg",
+        "recipe": {
+            "ingredients": [
+                "Butter",
+                "Sugar",
+                "Flour",
+                "Eggs",
+                "Lemon Juice",
+                "Baking Powder",
+                "Powdered Sugar"
+            ],
+            "instructions": [
+                "Preheat oven to 350°F (175°C).",
+                "Mix butter, sugar, and flour to form the crust. Press into a baking dish and bake for 15 minutes.",
+                "For the filling, whisk together eggs, sugar, lemon juice, flour, and baking powder.",
+                "Pour over the pre-baked crust and return to oven for 20-25 minutes.",
+                "Cool completely before dusting with powdered sugar and cutting into squares."
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "name": "Chicken Parmesan",
+        "image": "img/chicken_parmesan.jpg",
+        "recipe": {
+            "ingredients": [
+                "Chicken Breasts",
+                "Breadcrumbs",
+                "Parmesan Cheese",
+                "Marinara Sauce",
+                "Mozzarella Cheese",
+                "Eggs",
+                "Flour",
+                "Olive Oil"
+            ],
+            "instructions": [
+                "Preheat oven to 375°F (190°C).",
+                "Pound chicken breasts to an even thickness.",
+                "Dredge each chicken breast in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and Parmesan cheese.",
+                "Heat olive oil in a skillet over medium heat and cook chicken until golden brown on both sides.",
+                "Place chicken breasts in a baking dish, top with marinara sauce and mozzarella cheese.",
+                "Bake for 20-25 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+                "Serve with pasta or a side salad."
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "name": "Salmon Teriyaki",
+        "image": "img/salmon_teriyaki.jpg",
+        "recipe": {
+            "ingredients": [
+                "Salmon Fillets",
+                "Teriyaki Sauce",
+                "Honey",
+                "Garlic",
+                "Ginger",
+                "Olive Oil",
+                "Sesame Seeds",
+                "Green Onions"
+            ],
+            "instructions": [
+                "Preheat oven to 400°F (200°C).",
+                "In a bowl, mix teriyaki sauce, honey, minced garlic, and grated ginger.",
+                "Place salmon fillets on a baking sheet and brush with the teriyaki mixture.",
+                "Bake for 12-15 minutes, or until the salmon flakes easily with a fork.",
+                "Garnish with sesame seeds and chopped green onions before serving.",
+                "Serve with steamed rice and vegetables."
+            ]
+        }
+    }
+]
+  
